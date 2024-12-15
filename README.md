@@ -56,15 +56,19 @@ Navigate to [http://127.0.0.1:8000](http://127.0.0.1:8000) in your web browser t
 ## Project Screenshots 📸
 
 - **Web Interface:**  
+
   ![Web Interface](images/Screenshot%202024-12-16%20041339.png)
 
 - **Language Selection Menu:**  
+
   ![Language Selection Menu](images/Screenshot%202024-12-16%20041357.png)
 
 - **Person talks in English and is translated to Japanese text with Audio in background:**  
+
   ![English to Japanese](images/Screenshot%202024-12-16%20042932.png)
 
 - **Person talks in Japanese and is translated to English text with Audio in background:**  
+
   ![Japanese to English](images/Screenshot%202024-12-16%20042932.png)
 
 
