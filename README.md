@@ -69,7 +69,7 @@ Navigate to [http://127.0.0.1:8000](http://127.0.0.1:8000) in your web browser t
 
 - **Person talks in Japanese and is translated to English text with Audio in background:**  
 
-  ![Japanese to English](images/Screenshot%202024-12-16%20042932.png)
+  ![Japanese to English](images/Screenshot%2024-12-16%043201.png)
 
 
 ## Future Improvements 🔮
