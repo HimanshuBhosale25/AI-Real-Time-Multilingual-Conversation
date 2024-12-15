@@ -1,0 +1,9 @@
+google-cloud-speech 
+google-cloud-translate 
+google-cloud-texttospeech 
+python-dotenv
+fastapi[all]
+uvicorn
+websockets
+python-multipart
+pydub
