@@ -1,7 +1,7 @@
 # Real-Time Multilingual Conversation 🎤🌍
 
 ## Project Overview 🌟
-This project implements a real-time text-to-speech translation system that enables users to input text in one language and generate speech in another language. The system uses Google Cloud Speech-to-Text API, Google Cloud's Text-to-Speech (TTS) API and Translation API to provide translation and speech output in over 70 languages.
+This project implements a real-time Audio translation system that enables users to input speech in one language and generate speech in another language. The system uses Google Cloud Speech-to-Text API, Google Cloud's Text-to-Speech (TTS) API and Translation API to provide translation and speech output in over 70 languages.
 
 ## Technologies Used 🛠️
 - **Python 3.10** 🐍
